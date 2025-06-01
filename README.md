@@ -8,6 +8,8 @@ Bambulab links
 
 The next one is done using a CAD software fusion360.
 Because I am a Lego fan, I 3D printed a lego brick.
+https://drive.google.com/file/d/1mClCEIzJwBYPRHkx-MvwIlI65YR2xzMD/view?usp=drive_link
+
 You can look at the attached lego brick file called lego v2.3mf.
 I followed the tutorial here 
 https://www.youtube.com/watch?v=d3qGQ2utl2A

@@ -11,6 +11,7 @@ Because I am a Lego fan, I 3D printed a lego brick.
 You can look at the attached lego brick file called lego v2.3mf.
 I followed the tutorial here 
 https://www.youtube.com/watch?v=d3qGQ2utl2A
+
 Also take a look at my video.
 
 
